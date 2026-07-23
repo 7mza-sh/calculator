@@ -33,7 +33,7 @@ body {
   padding: 24px;
 }
 
-.display-result {
+#display-result {
   position: absolute;
   right: 28px;
   top: 50%;
